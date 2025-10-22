@@ -1,0 +1,10 @@
+.app {
+    margin: 0 auto;
+    max-width: 1000px;
+  }
+
+
+a {
+    text-decoration: none; 
+    color: inherit;         
+}
